@@ -124,7 +124,7 @@ label{
 	span.menu {
 		width: 35px;
 		height: 35px;
-		background: url(http://NederlandHeelt.github.io/nhweb/images/nav.png)no-repeat 0px 0px;
+		background: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/nav.png)no-repeat 0px 0px;
 		display: inline-block;
 		float: right;
 		cursor: pointer;
@@ -167,7 +167,7 @@ label{
 }
 /*--slider-css--*/
 .header{
-	    background: url(http://NederlandHeelt.github.io/nhweb/images/bg.jpg);
+	    background: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/bg.jpg);
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -407,7 +407,7 @@ label{
 
 /*--about--*/
 .header.two {
-    background: url(http://NederlandHeelt.github.io/nhweb/images/bg2.jpg);
+    background: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/bg2.jpg);
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -554,15 +554,15 @@ font-size: 3em;
 }
 
 .ch-img-1 { 
-	background-image: url(http://NederlandHeelt.github.io/nhweb/images/t1.jpg);
+	background-image: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/t1.jpg);
 }
 
 .ch-img-2 { 
-	background-image: url(http://NederlandHeelt.github.io/nhweb/images/t2.jpg);
+	background-image: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/t2.jpg);
 }
 
 .ch-img-3 { 
-	background-image: url(http://NederlandHeelt.github.io/nhweb/images/t3.jpg);
+	background-image: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/t3.jpg);
 }
 
 .ch-info h3 {
@@ -1024,7 +1024,7 @@ h5.m_26 a:hover{
 	color:#c3a000;
 }
 .md-col-in ul li i{
-	background: url(http://NederlandHeelt.github.io/nhweb/images/img-sprite.png)no-repeat -497px -20px;
+	background: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/img-sprite.png)no-repeat -497px -20px;
 	width: 8px;
 	height: 8px;
 	display: inline-block;
@@ -1260,12 +1260,12 @@ a:hover.tooltips span {
   height: 22px;
   border: none;
   text-indent: 100%;
-  background: url(http://NederlandHeelt.github.io/nhweb/images/move-top.png) no-repeat 0px 0px;
+  background: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/move-top.png) no-repeat 0px 0px;
 }
 /*--Responsive--*/
 @media (max-width:1440px){
 	.header {
-		background: url(http://NederlandHeelt.github.io/nhweb/images/bg.jpg);
+		background: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/bg.jpg);
 		background-size: cover;
 		-webkit-background-size: cover;
 		-o-background-size: cover;
@@ -1285,7 +1285,7 @@ a:hover.tooltips span {
 }
 @media (max-width:1366px){
 	.header {
-		background: url(http://NederlandHeelt.github.io/nhweb/images/bg.jpg);
+		background: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/bg.jpg);
 		background-size: cover;
 		-webkit-background-size: cover;
 		-o-background-size: cover;
@@ -1323,7 +1323,7 @@ a:hover.tooltips span {
 		width: 31%;
 	}
 	.header {
-		background: url(http://NederlandHeelt.github.io/nhweb/images/bg.jpg);
+		background: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/bg.jpg);
 		background-size: cover;
 		-webkit-background-size: cover;
 		-o-background-size: cover;
@@ -1349,7 +1349,7 @@ a:hover.tooltips span {
 		bottom: -35%;
 	}
 	.header {
-		background: url(http://NederlandHeelt.github.io/nhweb/images/bg.jpg);
+		background: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/bg.jpg);
 		background-size: cover;
 		-webkit-background-size: cover;
 		-o-background-size: cover;
@@ -1390,7 +1390,7 @@ a:hover.tooltips span {
 		width: 87%;
 	}
 	.header.two {
-		background: url(http://NederlandHeelt.github.io/nhweb/images/bg2.jpg);
+		background: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/bg2.jpg);
 		background-size: cover;
 		-webkit-background-size: cover;
 		-o-background-size: cover;
@@ -1437,7 +1437,7 @@ a:hover.tooltips span {
 		padding: 2px 0 0px 0;
 	}
 	.header {
-		background: url(http://NederlandHeelt.github.io/nhweb/images/bg.jpg);
+		background: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/bg.jpg);
 		background-size: cover;
 		-webkit-background-size: cover;
 		-o-background-size: cover;
@@ -1525,7 +1525,7 @@ a:hover.tooltips span {
 		font-size: 2.5em;
 	}
 	.header.two {
-		background: url(http://NederlandHeelt.github.io/nhweb/images/bg2.jpg);
+		background: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/bg2.jpg);
 		background-size: cover;
 		-webkit-background-size: cover;
 		-o-background-size: cover;
@@ -1640,7 +1640,7 @@ a:hover.tooltips span {
 }
 @media (max-width:640px){
 	.header {
-		background: url(http://NederlandHeelt.github.io/nhweb/images/bg.jpg);
+		background: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/bg.jpg);
 		background-size: cover;
 		-webkit-background-size: cover;
 		-o-background-size: cover;
@@ -1743,7 +1743,7 @@ a:hover.tooltips span {
 		padding: 2em 0 1em 0;
 	}
 	.header.two {
-		background: url(http://NederlandHeelt.github.io/nhweb/images/bg2.jpg);
+		background: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/bg2.jpg);
 		background-size: cover;
 		-webkit-background-size: cover;
 		-o-background-size: cover;
@@ -1863,7 +1863,7 @@ a:hover.tooltips span {
 		padding: 28em 0 4em 0;
 	}
 	.header {
-		background: url(http://NederlandHeelt.github.io/nhweb/images/bg.jpg);
+		background: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/bg.jpg);
 		background-size: cover;
 		-webkit-background-size: cover;
 		-o-background-size: cover;
@@ -1960,7 +1960,7 @@ a:hover.tooltips span {
     padding: 0 0 10px 0;
 	}
 	.header {
-		background: url(http://NederlandHeelt.github.io/nhweb/images/bg1.jpg);
+		background: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/bg1.jpg);
 		background-size: cover;
 		-webkit-background-size: cover;
 		-o-background-size: cover;
