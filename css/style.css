@@ -565,6 +565,10 @@ font-size: 3em;
 	background-image: url(https://raw.githubusercontent.com/NederlandHeelt/nhweb/gh-pages/images/t3.jpg);
 }
 
+.ch-img-4 { 
+	background-image: url(https://i.servimg.com/u/f17/19/66/17/09/mirte10.png);
+}
+
 .ch-info h3 {
 	    color: #fff;
     /* text-transform: uppercase; */
